@@ -6,7 +6,21 @@
 
 ### Tarea 1. Inspeccion datos
 
-Anotaciones
+Anotaciones de respuestas
+
+**Indicadores:**
+
+Ficheros:
+ - xxxxx
+
+Relaciones:
+
+**Resultados Academico:**
+
+Ficheros:
+ - xxxxx
+
+Relaciones:
 
 ### Tarea 2. 
 
