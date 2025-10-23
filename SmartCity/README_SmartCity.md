@@ -28,4 +28,9 @@
    }
 ```
 
-### Tarea 2
+### Tarea 2. Infraestructura FIWARE
+
+- Petición POST de creación de las entidades
+- Petición POST de creación de la suscripcion/es
+- Captura de pantalla de la consulta mongodb de las entidades
+- Codigo Python de simulación de 400 entradas
