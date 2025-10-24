@@ -30,7 +30,34 @@
 
 ### Tarea 2. Infraestructura FIWARE
 
-- Petición POST de creación de las entidades
-- Petición POST de creación de la suscripcion/es
-- Captura de pantalla de la consulta mongodb de las entidades
-- Codigo Python de simulación de 400 entradas
+#### Petición POST de creación de las entidades
+
+``` json
+  url = "http://localhost:1026/v2/entities"
+  headers = {
+      "Content-Type": "application/json"
+  }
+  data = {
+    ...
+  }
+```
+
+#### Petición POST de creación de la suscripcion/es
+
+``` json
+  url = "http://localhost:1026/v2/entities"
+  headers = {
+      "Content-Type": "application/json"
+  }
+  data = {
+    ...
+  }
+```
+
+#### Captura de pantalla de la consulta mongodb de las entidades
+
+- Captura
+
+#### Codigo Python de simulación de 400 entradas
+
+- En un fichero aparte
