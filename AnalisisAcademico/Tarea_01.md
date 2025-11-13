@@ -1,27 +1,31 @@
-# ANALISIS ACADEMICO
+# Tarea 01: La primera inspecdión
 
-**Objetivo:** Ayudar a un centro educativo a entender sus resultados académicos. Partiremos de varios ficheros CSV "sucios" y los transformaremos en un sistema de Business Intelligence (BI) coherente que permita tomar decisiones.
 
-## Tareas
+## Revisión exhaustiva de las fuentes de información.
 
-### Tarea 1. Inspeccion datos
-
-Anotaciones de respuestas
-
-**Indicadores:**
+### Ficheros Indicadores
 
 Ficheros:
- - xxxxx
+- Indicadores_Finales
+- Lineas
+- Objetivos
+- Procesos
 
-Relaciones:
+Analisis:
 
-**Resultados Academico:**
+### Ficheros ITACA
 
 Ficheros:
- - xxxxx
+- Alumnos
+- Calificaciones
+- Cursos 
+- Grupos
+- Horas 
+- Modulos
 
-Relaciones:
+Mejor con una tabla
 
-### Tarea 2. 
+Analisis:
 
-..........
+### Identificación de campos clave, relaciones y normalización de datos
+
