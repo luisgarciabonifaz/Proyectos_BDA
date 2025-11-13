@@ -3,29 +3,27 @@
 
 ## Revisión exhaustiva de las fuentes de información.
 
-### Ficheros Indicadores
 
-Ficheros:
-- Indicadores_Finales
-- Lineas
-- Objetivos
-- Procesos
+**Indicadores**
 
-Analisis:
+| Fichero                 | Delimitador | Encabezado | Valores Extraños | Formato Consistente | Clave |
+| ----------------------- | ----------- | ---------- | ---------------- | ------------------- | ----- |
+| Indicadores Finales.csv |             |            |                  |                     |       |
+| Lineas.csv              |             |            |                  |                     |       |
+| Objetivos.csv           |             |            |                  |                     |       |
+| Procesos.csv            |             |            |                  |                     |       |
 
-### Ficheros ITACA
+**Datos ITACA**
 
-Ficheros:
-- Alumnos
-- Calificaciones
-- Cursos 
-- Grupos
-- Horas 
-- Modulos
+| Fichero            | Delimitador | Encabezado | Valores Extraños | Formato Consistente | Clave |
+| ------------------ | ----------- | ---------- | ---------------- | ------------------- | ----- |
+| Alumnos.csv        |             |            |                  |                     |       |
+| Calificaciones.csv |             |            |                  |                     |       |
+| Cursos.csv         |             |            |                  |                     |       |
+| Grupos.csv         |             |            |                  |                     |       |
+| Modulos.csv        |             |            |                  |                     |       |
+| Horas.csv          |             |            |                  |                     |       |
 
-Mejor con una tabla
 
-Analisis:
-
-### Identificación de campos clave, relaciones y normalización de datos
+### Relaciones
 
